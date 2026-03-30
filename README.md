@@ -10,7 +10,7 @@ Welcome to my professionally curated GitHub Portfolio for the **PRP372S** subjec
 | Deliverable | Status | Link |
 |:---|:---:|:---|
 | **Digital CV** | Completed | [View CV](CV.md) |
-| **Mock Interview Video** | Completed | [Watch Video](assets/Interview.mp4) |
+| **Mock Interview Video** | Completed | [Watch Video](assets/Interview) |
 | **Supporting Documents** | Completed | [Assets Folder](assets/) |
 
 ---
