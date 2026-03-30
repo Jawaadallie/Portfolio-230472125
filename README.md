@@ -24,7 +24,7 @@ Welcome to my professionally curated GitHub Portfolio for the **PRP372S** subjec
 ## Contact
 If you have any questions, feel free to contact me:
 - **Email**: jawaadallie@gmail.com
-- **GitHub**: [MogamadJawaadAllie](https://github.com/MogamadJawaadAllie)
+- **GitHub**: [MogamadJawaadAllie](https://github.com/Jawaadallie)
 
 ---
 
